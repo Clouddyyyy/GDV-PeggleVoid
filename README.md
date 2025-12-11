@@ -39,3 +39,10 @@ Target hitten:
 
 ![Target things](https://github.com/user-attachments/assets/26d520f2-ac3c-40dd-9992-6181f7045811)
 
+
+Project Reflectie:
+Ik heb het voorbeeld gemaakt en de positie.
+Ik ben nog niet zo ver maar moest wel mijn design veranderen.
+Ik weet niet hoe het perse wat ik wel en niet heb geleerd maar ik snap er wat beter van.
+
+
