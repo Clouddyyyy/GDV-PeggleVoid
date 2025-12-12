@@ -46,3 +46,12 @@ Ik ben nog niet zo ver maar moest wel mijn design veranderen.
 Ik weet niet hoe het perse wat ik wel en niet heb geleerd maar ik snap er wat beter van.
 
 
+
+2.2 Aim, Shoot en Line Mask. Ik heb mijn line om mee te shooten gemaakt.
+
+![PeggleShoot](https://github.com/user-attachments/assets/8861f699-29c7-4dfc-a8bb-52be7f9469ba)
+
+
+
+
+
