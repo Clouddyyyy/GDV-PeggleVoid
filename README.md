@@ -1,14 +1,3 @@
-# Arrays
-
-I made a RandomItem within that item a inventory where i putted different fruits in.
-
-![Arrays](https://github.com/user-attachments/assets/e78ecf2a-8707-42c4-801e-b2a5c9ada65c)
-
-
-
-https://github.com/Clouddyyyy/GDV-PeggleProject.git
-
-
 # GDV-PeggleProject
 
 Titel = PeggleVoid
@@ -50,6 +39,7 @@ Ik weet niet hoe het perse wat ik wel en niet heb geleerd maar ik snap er wat be
 2.2 Aim, Shoot en Line Mask. Ik heb mijn line om mee te shooten gemaakt. It will still be changed!
 
 ![PeggleShoot](https://github.com/user-attachments/assets/8861f699-29c7-4dfc-a8bb-52be7f9469ba)
+
 
 
 
