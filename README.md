@@ -40,6 +40,9 @@ Ik weet niet hoe het perse wat ik wel en niet heb geleerd maar ik snap er wat be
 
 ![PeggleShootArrow](https://github.com/user-attachments/assets/223d25fb-955b-476e-b137-60d9a2e5b44c)
 
+![Aim](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/Aim.cs)
+
+
 
 
 
