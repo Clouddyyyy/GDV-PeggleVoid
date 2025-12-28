@@ -36,9 +36,11 @@ Ik weet niet hoe het perse wat ik wel en niet heb geleerd maar ik snap er wat be
 
 
 
-2.2 Aim, Shoot en Line Mask. Ik heb mijn line om mee te shooten gemaakt. It will still be changed!
+2.2 Aim, Shoot en Line Mask. Ik heb mijn line om mee te shooten gemaakt. 
 
-![PeggleShoot](https://github.com/user-attachments/assets/8861f699-29c7-4dfc-a8bb-52be7f9469ba)
+![PeggleShootArrow](https://github.com/user-attachments/assets/223d25fb-955b-476e-b137-60d9a2e5b44c)
+
+
 
 
 
