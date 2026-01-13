@@ -43,7 +43,12 @@ Ik weet niet hoe het perse wat ik wel en niet heb geleerd maar ik snap er wat be
 ![Aim](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/Aim.cs)
 ![Shoot](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/ShootBall.cs)
 
+3.1 Score & Triggers
+![Score](https://github.com/user-attachments/assets/bf5768d5-bdc6-45d9-961d-3d2d6a97a5dc)
+What i made in this for the online, aka in the console the score. We need 3 hit before they vanish from the screen.
 
+3.2 Combo Systeem en Bumpers
+![Multipliers](https://github.com/user-attachments/assets/e7c8289b-ab18-4a18-9e3c-26710b26dc08)
 
 
 
