@@ -50,6 +50,11 @@ What i made in this for the online, aka in the console the score. We need 3 hit 
 3.2 Combo Systeem en Bumpers
 ![Multipliers](https://github.com/user-attachments/assets/e7c8289b-ab18-4a18-9e3c-26710b26dc08)
 
+4.1 LevelDesign en UI
+![Screen](<img width="789" height="435" alt="afbeelding" src="https://github.com/user-attachments/assets/195f7c18-2247-4a93-85ad-c860d46bc1bb" />
+)
+
+
 
 
 
