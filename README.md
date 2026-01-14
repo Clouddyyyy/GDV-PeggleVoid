@@ -51,14 +51,15 @@ What i made in this for the online, aka in the console the score. We need 3 hit 
 ![Multipliers](https://github.com/user-attachments/assets/e7c8289b-ab18-4a18-9e3c-26710b26dc08)
 
 4.1 LevelDesign en UI
-![Screen](<img width="789" height="435" alt="afbeelding" src="https://github.com/user-attachments/assets/195f7c18-2247-4a93-85ad-c860d46bc1bb" />
-)
 
 
 
 
 
 
+
+
+<img width="789" height="435" alt="Screenshot 2026-01-14 112239" src="https://github.com/user-attachments/assets/598e8400-aa5c-42aa-8d9c-d7d03d245b4d" />
 
 
 
