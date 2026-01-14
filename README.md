@@ -57,6 +57,11 @@ i'm now making a basic game of peggle. with some design and following whats need
 Still fixing UI will be added..
 
 
+5.2 Particles en Sounds
+Have to fix codes
+
+
+
 
 
 
