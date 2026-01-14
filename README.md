@@ -51,15 +51,10 @@ What i made in this for the online, aka in the console the score. We need 3 hit 
 ![Multipliers](https://github.com/user-attachments/assets/e7c8289b-ab18-4a18-9e3c-26710b26dc08)
 
 4.1 LevelDesign en UI
-
-
-
-
-
-
-
-
+Image of my Pegglegame! till now.
 <img width="789" height="435" alt="Screenshot 2026-01-14 112239" src="https://github.com/user-attachments/assets/598e8400-aa5c-42aa-8d9c-d7d03d245b4d" />
+i'm now making a basic game of peggle. with some design and following whats needed.
+Still fixing UI will be added..
 
 
 
