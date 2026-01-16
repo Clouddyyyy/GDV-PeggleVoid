@@ -49,19 +49,30 @@ What i made in this for the online, aka in the console the score. We need 3 hit 
 
 3.2 Combo Systeem en Bumpers
 ![Multipliers](https://github.com/user-attachments/assets/e7c8289b-ab18-4a18-9e3c-26710b26dc08)
+![BumperHit](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/BumperHit.cs)
+![ComboSysteem](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/ComboSysteem.cs)
+I made multipliers work. Added action events.
 
 4.1 LevelDesign en UI
 Image of my Pegglegame! till now.
 <img width="789" height="435" alt="Screenshot 2026-01-14 112239" src="https://github.com/user-attachments/assets/598e8400-aa5c-42aa-8d9c-d7d03d245b4d" />
 i'm now making a basic game of peggle. with some design and following whats needed.
-Still fixing UI will be added..
+![ScoreManager](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/ScoreManager.cs)
+Made a UI
+
+4.2.  Peggle Game, Waardes (score) versturen naar de UI
+![UIScoreBoard](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/UIScoreBoard.cs)
+![CountBalls](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/CountBalls.cs)
+![ShootBall](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/ShootBall.cs)
+![ScoreStuff](https://github.com/user-attachments/assets/f3f54a80-e17a-4563-bfa1-158384892bad)
+edited UI 
 
 
 5.2 Particles en Sounds
-Have to fix codes
-
-
-
-
-
+![BumperHit](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/BumperHit.cs)
+![ComboSysteem](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/ComboSysteem.cs)
+![SoundManager](https://github.com/Clouddyyyy/GDV-PeggleVoid/blob/main/002_PeggleVoid/Assets/Scripts/SoundManager.cs)
+![ScoreStuff](https://github.com/user-attachments/assets/f3f54a80-e17a-4563-bfa1-158384892bad)
+Gave sparkel effects. and sound effects
+Done! i hope you enjoy
 
